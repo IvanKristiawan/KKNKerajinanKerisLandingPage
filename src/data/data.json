@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Sanggar Diponegoro",
+    "paragraph": "Seni Kerajinan Kayu. Loro Blonyo, Wayang Klithik, Wayang Golek, Topeng, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
+  },
+  "About": {
+    "paragraph": "Sanggar diponegoro berdiri tahun 1996, termasuk bisnis kerajinan tangan dengan produk berbahan kayu yang di cat maupun di batik. Sanggar diponegoro memproduksi kerajinan kayu batik sebagai berikut patung loro blonyo, topeng,gantungan kunci,nampan,tatakan gelas, rekal dll. Adapun produk best seller yg menonjol adalah LORO BLONYO. proses pengerjaan dalam produksi memakai cat air juga kayu batik tulis. Pemasaran produk area lokal, area Jawa dan Bali.",
+    "Why": [
+      "Pembuatan secara manual dan tradisional.",
+      "Bermacam-macam bentuk karya yg unik dan menarik.",
+      "Menggunakan bahan pilihan yang sudah diolah sehingga tidak mengalami proses jamur.",
+      "Mengutamankan kualitas produk dan kepuasan pelanggan khusus pecinta seni."
+    ],
+    "Why2": [
+      "Dalam proses nyungging menggunakan cat tembok dan Sandy.",
+      "Motif andalan adalah motif batik klasik (motif jaman dahulu).",
+      "Menerima motif sesuai permintaan pelanggan."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Loro Blonyo",
+      "largeImage": "img/portfolio/loro-blonyo.jpg",
+      "smallImage": "img/portfolio/loro-blonyo.jpg"
+    },
+    {
+      "title": "Wayang Klithik",
+      "largeImage": "img/portfolio/wayang-klithik.jpg",
+      "smallImage": "img/portfolio/wayang-klithik.jpg"
+    },
+    {
+      "title": "Wayang Golek",
+      "largeImage": "img/portfolio/wayang-golek.jpg",
+      "smallImage": "img/portfolio/wayang-golek.jpg"
+    },
+    {
+      "title": "Topeng",
+      "largeImage": "img/portfolio/topeng.jpg",
+      "smallImage": "img/portfolio/topeng.jpg"
+    },
+    {
+      "title": "Batik Kayu",
+      "largeImage": "img/portfolio/batik-kayu.jpg",
+      "smallImage": "img/portfolio/batik-kayu.jpg"
+    },
+    {
+      "title": "Gantungan Kunci",
+      "largeImage": "img/portfolio/gantungan-kunci.jpg",
+      "smallImage": "img/portfolio/gantungan-kunci.jpg"
+    },
+    {
+      "title": "Nampan",
+      "largeImage": "img/portfolio/nampan.jpg",
+      "smallImage": "img/portfolio/nampan.jpg"
+    },
+    {
+      "title": "Tatakan Gelas",
+      "largeImage": "img/portfolio/tatakan-gelas.jpg",
+      "smallImage": "img/portfolio/tatakan-gelas.jpg"
+    },
+    {
+      "title": "Rekal",
+      "largeImage": "img/portfolio/rekal.jpg",
+      "smallImage": "img/portfolio/rekal.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": {
+    "LocationPetinggi": [
+      {
+        "title": "Sanggar Diponegoro",
+        "linkGoogleMaps": "https://goo.gl/maps/V5USQsXUBLzdgMhi9",
+        "latitude": -7.863671881052443,
+        "longitude": 110.31789589899915
+      }
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "GOA Slarong, Kembang Putihan, RT.02 Guwosari Pajangan Bantul 55751. Yogyakarta Indonesia.",
+    "phone": "0858 7633 5774",
+    "email": "into_kuter@gmail.com",
+    "whatsapp": "https://wa.link/5y0v2g",
+    "instagram": "https://www.instagram.com/sanggar_diponegoro/",
+    "facebook": "https://www.facebook.com/sanggar.diponegoro.5/?locale=id_ID",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-paint-brush",
+      "title": "Pengecatan",
+      "text": "Pengecatan berbagai macam kerajinan kayu seperti Patung, Topeng, Souvenir."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Jual",
+      "text": "Menjual berbagai macam seni kerajinan kayi seperti Patung, Topeng, Souvenir, Batik Kayu."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "title": "Pesanan",
+      "text": "Melayani pesanan Seni Kerajinan Kayu dalam jumlah besar untuk souvenir di berbagai macam acara."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Batik Kayu",
+      "text": "Menjual Batik Kayu yang dicat menggunakan malam."
+    }
+  ]
+}
