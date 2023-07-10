@@ -1,67 +1,42 @@
 {
   "Header": {
     "title": "Bewok Keris Selarong",
+<<<<<<< HEAD
     "paragraph": "Seni Kerajinan Kayu. Loro Blonyo, Wayang Klithik, Wayang Golek, Topeng, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
+=======
+    "paragraph": "Seni Kerajinan Keris, Pedang, Tombak, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
+>>>>>>> 1c6fe276972021ba6d76cdb91423537295173191
   },
   "About": {
-    "paragraph": "Sanggar diponegoro berdiri tahun 1996, termasuk bisnis kerajinan tangan dengan produk berbahan kayu yang di cat maupun di batik. Sanggar diponegoro memproduksi kerajinan kayu batik sebagai berikut patung loro blonyo, topeng,gantungan kunci,nampan,tatakan gelas, rekal dll. Adapun produk best seller yg menonjol adalah LORO BLONYO. proses pengerjaan dalam produksi memakai cat air juga kayu batik tulis. Pemasaran produk area lokal, area Jawa dan Bali.",
+    "paragraph": "Bewok Keris Selarong berdiri tahun 1975. Bewok Keris Selarong memproduksi kerajinan Keris, Pedang, Tombak, dll, dan juga melayani pembuatan Keris baru dan juga perbaikan Keris lama. Adapun produk best seller yg menonjol adalah Warongko.",
     "Why": [
       "Pembuatan secara manual dan tradisional.",
-      "Bermacam-macam bentuk karya yg unik dan menarik.",
-      "Menggunakan bahan pilihan yang sudah diolah sehingga tidak mengalami proses jamur.",
-      "Mengutamankan kualitas produk dan kepuasan pelanggan khusus pecinta seni."
+      "Bermacam-macam bentuk karya yg unik dan menarik."
     ],
     "Why2": [
-      "Dalam proses nyungging menggunakan cat tembok dan Sandy.",
-      "Motif andalan adalah motif batik klasik (motif jaman dahulu).",
-      "Menerima motif sesuai permintaan pelanggan."
+      "Mengutamakan kualitas produk dan kepuasan pelanggan khusus pecinta seni."
     ]
   },
   "Gallery": [
     {
-      "title": "Loro Blonyo",
+      "title": "Pedang",
       "largeImage": "img/portfolio/loro-blonyo.jpg",
       "smallImage": "img/portfolio/loro-blonyo.jpg"
     },
     {
-      "title": "Wayang Klithik",
+      "title": "Tombak",
       "largeImage": "img/portfolio/wayang-klithik.jpg",
       "smallImage": "img/portfolio/wayang-klithik.jpg"
     },
     {
-      "title": "Wayang Golek",
+      "title": "Keris",
       "largeImage": "img/portfolio/wayang-golek.jpg",
       "smallImage": "img/portfolio/wayang-golek.jpg"
     },
     {
-      "title": "Topeng",
+      "title": "Warongko",
       "largeImage": "img/portfolio/topeng.jpg",
       "smallImage": "img/portfolio/topeng.jpg"
-    },
-    {
-      "title": "Batik Kayu",
-      "largeImage": "img/portfolio/batik-kayu.jpg",
-      "smallImage": "img/portfolio/batik-kayu.jpg"
-    },
-    {
-      "title": "Gantungan Kunci",
-      "largeImage": "img/portfolio/gantungan-kunci.jpg",
-      "smallImage": "img/portfolio/gantungan-kunci.jpg"
-    },
-    {
-      "title": "Nampan",
-      "largeImage": "img/portfolio/nampan.jpg",
-      "smallImage": "img/portfolio/nampan.jpg"
-    },
-    {
-      "title": "Tatakan Gelas",
-      "largeImage": "img/portfolio/tatakan-gelas.jpg",
-      "smallImage": "img/portfolio/tatakan-gelas.jpg"
-    },
-    {
-      "title": "Rekal",
-      "largeImage": "img/portfolio/rekal.jpg",
-      "smallImage": "img/portfolio/rekal.jpg"
     }
   ],
   "Services": [
@@ -100,9 +75,9 @@
     "LocationPetinggi": [
       {
         "title": "Bewok Keris Selarong",
-        "linkGoogleMaps": "https://goo.gl/maps/niv36QDS7i5dDQ1e9",
-        "latitude": -7.86473977656911,
-        "longitude": 110.32019084155826
+        "linkGoogleMaps": "https://goo.gl/maps/CHmVW8YcfzMdjT829",
+        "latitude": -7.864792057964323,
+        "longitude": 110.32020397485759
       }
     ]
   },
@@ -129,25 +104,25 @@
     }
   ],
   "Contact": {
-    "address": "GOA Slarong, Kembang Putihan, RT.02 Guwosari Pajangan Bantul 55751. Yogyakarta Indonesia.",
-    "phone": "0858 7633 5774",
+    "address": "Bantul, Kembang Putihan, Guwosari, Kec. Pajangan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55751",
+    "phone": "0856 4321 1813",
     "email": "into_kuter@gmail.com",
-    "whatsapp": "https://wa.link/5y0v2g",
-    "instagram": "https://www.instagram.com/sanggar_diponegoro/",
-    "facebook": "https://www.facebook.com/sanggar.diponegoro.5/?locale=id_ID",
+    "whatsapp": "https://wa.link/oxswrw",
+    "instagram": "https://www.instagram.com/",
+    "facebook": "https://www.facebook.com/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
       "icon": "fa fa-paint-brush",
-      "title": "Pengecatan",
-      "text": "Pengecatan berbagai macam kerajinan kayu seperti Patung, Topeng, Souvenir."
+      "title": "Perbaikan",
+      "text": "Perbaikan berbagai macam senjata tradional seperti Pedang, Tombak, Keris, dll."
     },
     {
       "icon": "fa fa-users",
       "title": "Jual",
-      "text": "Menjual berbagai macam seni kerajinan kayi seperti Patung, Topeng, Souvenir, Batik Kayu."
+      "text": "Menjual berbagai macam seni kerajinan seperti Pedang, Tombak, Keris, dll."
     },
     {
       "icon": "fa fa-shopping-cart",

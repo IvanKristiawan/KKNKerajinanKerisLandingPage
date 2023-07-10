@@ -22,7 +22,7 @@ export const Navigation = (props) => {
             href="#page-top"
             style={{ fontSize: "16px" }}
           >
-            Sanggar Diponegoro
+            Bewok Keris Selarong
           </a>{" "}
         </div>
 

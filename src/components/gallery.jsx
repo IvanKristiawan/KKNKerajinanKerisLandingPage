@@ -8,7 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Produk</h2>
           <p>
-            Menjual Seni Kerajinan Kayu Khas Jawa yang cocok dijadikan oleh-oleh maupun souvenir dalam berbagai macam acara.
+            Menjual Seni Kerajinan Senjata Khas Jawa yang cocok dijadikan oleh-oleh maupun souvenir dalam berbagai macam acara.
           </p>
         </div>
         <div className="row">
