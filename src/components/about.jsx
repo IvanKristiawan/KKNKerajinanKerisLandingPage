@@ -7,12 +7,18 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/sanggar-diponegoro.png" className="img-responsive" alt="" />{" "}
+            <div >
+              <img style={{border:"2px solid black", borderRadius:"10px"}} src="img/sanggar-diponegoro.png" className="img-responsive" alt="" />{" "}
+            </div>
+            
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Tentang Kami</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <div style={{textAlign:"justify"}}>
+                <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              </div>
+              
               <h3>Kenapa Memilih Kami?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">

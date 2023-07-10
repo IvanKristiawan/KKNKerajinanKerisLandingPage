@@ -30,15 +30,15 @@ export const Testimonials = (props) => {
 
             <div>
               <div style={styleMarkerDetail}>
-                <Pin />
-                <h5>Lokasi Sanggar Diponegoro</h5>
+                <Pin/>{" "}
+                <h5> Lokasi Bewok Keris Selarong</h5>
               </div>
             </div>
 
             <Map
               initialViewState={{
-                latitude: -7.864825,
-                longitude: 110.320174,
+                latitude: -7.86471,
+                longitude: 110.32019,
                 zoom: 15,
                 bearing: 0,
                 pitch: 0,
