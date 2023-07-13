@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Bewok Keris Selarong",
-    "paragraph": "Seni Kerajinan Kayu. Loro Blonyo, Wayang Klithik, Wayang Golek, Topeng, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
+    "paragraph": "Seni Kerajinan Senjata Tradisional Khas Jawa, Keris, Tombak, Pedang, dll. Berpusat di Kembang Putihan, Bantul, Yogyakarta."
   },
   "About": {
     "paragraph": "Bewok Keris Selarong berdiri tahun 1975. Bewok Keris Selarong memproduksi kerajinan Keris, Pedang, Tombak, dll, dan juga melayani pembuatan Keris baru dan juga perbaikan Keris lama. Adapun produk best seller yg menonjol adalah Warongko.",
@@ -16,23 +16,18 @@
   "Gallery": [
     {
       "title": "Pedang",
-      "largeImage": "img/portfolio/loro-blonyo.jpg",
-      "smallImage": "img/portfolio/loro-blonyo.jpg"
+      "largeImage": "img/portfolio/pedang.jpg",
+      "smallImage": "img/portfolio/pedang.jpg"
     },
     {
       "title": "Tombak",
-      "largeImage": "img/portfolio/wayang-klithik.jpg",
-      "smallImage": "img/portfolio/wayang-klithik.jpg"
+      "largeImage": "img/portfolio/tombak.jpg",
+      "smallImage": "img/portfolio/tombak.jpg"
     },
     {
       "title": "Keris",
-      "largeImage": "img/portfolio/wayang-golek.jpg",
-      "smallImage": "img/portfolio/wayang-golek.jpg"
-    },
-    {
-      "title": "Warongko",
-      "largeImage": "img/portfolio/topeng.jpg",
-      "smallImage": "img/portfolio/topeng.jpg"
+      "largeImage": "img/portfolio/keris6.jpg",
+      "smallImage": "img/portfolio/keris6.jpg"
     }
   ],
   "Services": [
@@ -102,7 +97,7 @@
   "Contact": {
     "address": "Bantul, Kembang Putihan, Guwosari, Kec. Pajangan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55751",
     "phone": "0856 4321 1813",
-    "email": "into_kuter@gmail.com",
+    "email": "-",
     "whatsapp": "https://wa.link/oxswrw",
     "instagram": "https://www.instagram.com/",
     "facebook": "https://www.facebook.com/",
@@ -124,11 +119,6 @@
       "icon": "fa fa-shopping-cart",
       "title": "Pesanan",
       "text": "Melayani pesanan Seni Kerajinan Kayu dalam jumlah besar untuk souvenir di berbagai macam acara."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Batik Kayu",
-      "text": "Menjual Batik Kayu yang dicat menggunakan malam."
     }
   ]
 }

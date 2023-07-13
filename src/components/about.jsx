@@ -8,7 +8,7 @@ export const About = (props) => {
           <div className="col-xs-12 col-md-6">
             {" "}
             <div >
-              <img style={{border:"2px solid black", borderRadius:"10px"}} src="img/sanggar-diponegoro.png" className="img-responsive" alt="" />{" "}
+              <img style={{border:"2px solid black", borderRadius:"10px"}} src="img/keris.jpg" className="img-responsive" alt="" />{" "}
             </div>
             
           </div>
